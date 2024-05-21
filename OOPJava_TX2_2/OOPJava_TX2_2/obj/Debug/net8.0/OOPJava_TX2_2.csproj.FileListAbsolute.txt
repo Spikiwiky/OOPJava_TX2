@@ -1,0 +1,15 @@
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.exe
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.deps.json
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.runtimeconfig.json
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.dll
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\bin\Debug\net8.0\OOPJava_TX2_2.pdb
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.AssemblyInfoInputs.cache
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.AssemblyInfo.cs
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.csproj.CoreCompileInputs.cache
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.sourcelink.json
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.dll
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\refint\OOPJava_TX2_2.dll
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.pdb
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\OOPJava_TX2_2.genruntimeconfig.cache
+D:\FPT Semesters\Ki 5\OOPJava_TX2\OOPJava_TX2_2\OOPJava_TX2_2\obj\Debug\net8.0\ref\OOPJava_TX2_2.dll
